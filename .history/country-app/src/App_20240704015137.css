@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.country-card {
+  transition: transform 0.3s;
+}
+
+.country-card:hover {
+  transform: scale(1.05);
+}
